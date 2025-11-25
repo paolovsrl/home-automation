@@ -14,8 +14,8 @@ const char* password = "1234567890";
 double Input;
 boolean statusOpen = false;
 
-int darkThreshold = 1000;
-int lightThreshold = 300;
+int darkThreshold = 1100;
+int lightThreshold = 800;
 
 // Set web server port number to 80
 WiFiServer server(80);
